@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhxxy
 - 👀 I’m interested in new tech stacks.
-- 🌱 I’m currently learning T3 Stack - next js, typescript, tailwind css, trpc.
+- 🌱  T3 Stack - next js, typescript, tailwind css, trpc.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me abhay28singh@gmail.com
